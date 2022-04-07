@@ -49,7 +49,7 @@ def decimal_converter(num):
         num/=10
     return num
 
-print(float2bin(-655.0))
+print(float2bin(-655.00))
 
 def bin2float(num):
     flag=False
